@@ -4,7 +4,7 @@
 
 Name:		python-coverage-conditional-plugin
 Version:	0.9.0
-Release:	2
+Release:	3
 Summary:	Conditional coverage based on any rules you define!
 URL:		https://pypi.org/project/coverage-conditional-plugin/
 License:	MIT
